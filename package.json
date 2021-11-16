@@ -19,5 +19,8 @@
   "type": "module",
   "bin": {
     "nodejs-package": "bin/nodejs-package.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
