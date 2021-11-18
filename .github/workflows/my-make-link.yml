@@ -1,8 +1,0 @@
-name: my-make-link
-on: push
-jobs:
-  my-job:
-    runs-on: ubuntu-latest
-    steps:
-      - name: npm install
-        run: make lint
