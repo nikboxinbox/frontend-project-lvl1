@@ -1,4 +1,4 @@
-name: link
+name: lint
 on: push
 jobs:
  my-job:
