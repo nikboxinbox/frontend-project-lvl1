@@ -6,7 +6,7 @@
 [![Actions Status](https://github.com/nikboxinbox/frontend-project-lvl1/workflows/lint/badge.svg)](https://github.com/nikboxinbox/frontend-project-lvl1/actions)
 
 ### Asciinema brain-even
-https://asciinema.org/a/UAf7AeueaqWEJ93gqFazXYATX
+(https://asciinema.org/a/UAf7AeueaqWEJ93gqFazXYATX)
 
 
 
