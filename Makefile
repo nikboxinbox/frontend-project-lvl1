@@ -2,6 +2,8 @@ install: #Эта команда полезна при первом клонир�
 		npm ci
 brain-games: 
 		node bin/brain-games.js
+brain-even: 
+		node bin/brain-even.js
 publish:
 		npm publish --dry-run
 make lint: 
@@ -9,3 +11,5 @@ make lint:
 		
 
 .PHONY:		brain-games
+.PHONY:		brain-even 
+
