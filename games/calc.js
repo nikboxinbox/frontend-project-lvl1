@@ -11,6 +11,7 @@ const gameCalc = () => {
     return resultQuestion;
   };
   const getCorrectAnswer = (resultQuestion) => {
+    // eslint-disable-next-line no-eval
     const correctAnswer = String(eval(resultQuestion));
     return correctAnswer;
   };

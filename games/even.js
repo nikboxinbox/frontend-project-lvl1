@@ -14,5 +14,4 @@ const gameEven = () => {
   startGame(gameRules, getResultQuestion, getCorrectAnswer);
 };
 
-
 export default gameEven;
