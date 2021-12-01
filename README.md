@@ -17,7 +17,8 @@
 
 [Asciinema brain-progression](https://asciinema.org/a/8pmYeFeqFlCgZKBggDucguQe7)
 
-
+ 
+ [Asciinema brain-prime](https://asciinema.org/a/aXwS4n2DCgP0MCb7Gvp0Hb7GR)
 
 
 
